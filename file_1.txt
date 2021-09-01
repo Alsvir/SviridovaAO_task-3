@@ -1,4 +1,12 @@
 Hello World
 
+<<<<<<< HEAD
 My new rating
 
+=======
+
+
+
+
+Comment was added
+>>>>>>> comment
